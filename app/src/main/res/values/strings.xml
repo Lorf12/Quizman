@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizMan</string>
+    <string name="start">Старт</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="timer">Таймер</string>
+    <string name="result_icon">Result Icon</string>
+</resources>

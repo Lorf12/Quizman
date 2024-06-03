@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="black95">#95000000</color>
+    <color name="orange">#FFA500</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#FF0000</color>
+    <color name="gray">#808080</color>
+    <color name="cardColor">#FFFFFF</color>
+    <color name="buttonColor">#4CAF50</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="backgroundGradientStart">#4CAF50</color>
+    <color name="backgroundGradientEnd">#81C784</color>
+    <color name="light_blue">#87CEEB</color> <!-- Светло-голубой -->
+    <color name="dark_blue">#1E90FF</color> <!-- Темно-синий -->
+    <color name="blue">#2196F3</color> <!-- Синий -->
+    <color name="light_yellow">#FFF9C4</color> <!-- Светло-желтый -->
+    <color name="bckgreen">#1F8F24</color> <!-- Тёмно-зеленый -->
+    <color name="lime_green">#32CD32</color> <!-- Новый зеленый цвет -->
+
+
+
+</resources>
